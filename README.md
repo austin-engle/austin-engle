@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<!-- ![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=austin-engle&count_private=true&show_icons=true) -->
+
+- 🏢 LinkedIn: [Austin Engle](https://www.linkedin.com/in/austin-engle/)
+
+
 <!--
 **austin-engle/austin-engle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
